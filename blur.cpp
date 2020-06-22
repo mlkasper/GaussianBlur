@@ -1,6 +1,5 @@
-//CSCI415; Saeed Salem, 04/13/2020
-//To compile: g++ -O3 -w lab05.cpp -lpthread -o lab05
-//To run: ./assign5 InputFile outFile thread_count k
+//To compile: g++ -O3 -w GaussianBlur.cpp -lpthread -o GaussianBlur
+//To run: ./GaussianBlur InputFile outFile thread_count k
 
 #include "stb_image.h"
 
