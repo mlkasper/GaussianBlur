@@ -1,5 +1,6 @@
 # GaussianBlur
 Gaussian Blur program written in C++.
+Program created for NDSU 455 Networking and Paralell Computations
 
 To Run
 -----------
